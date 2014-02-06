@@ -1,0 +1,14 @@
+
+module.exports = {
+	db: {
+		name: "###",
+		user: "###",
+		pass: "###",
+		options: {
+			port: 3306,
+			dialect: "mysql"
+		}
+		
+	}
+
+}
